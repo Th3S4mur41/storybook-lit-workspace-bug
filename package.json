@@ -21,7 +21,7 @@
 		"deploy": "chromatic --exit-zero-on-changes -d packages/storybook/storybook-static"
 	},
 	"devDependencies": {
-		"@babel/core": "^7.24.9",
+		"@babel/core": "^7.25.2",
 		"@commitlint/cli": "^19.3.0",
 		"@commitlint/config-conventional": "^19.2.2",
 		"autoprefixer": "^10.4.19",
